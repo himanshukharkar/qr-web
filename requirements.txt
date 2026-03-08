@@ -1,0 +1,5 @@
+streamlit
+segno
+pillow
+reportlab
+numpy
